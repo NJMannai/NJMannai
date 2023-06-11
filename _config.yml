@@ -6,5 +6,5 @@ author:
 description: "site about mayhem and a11y."
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 
