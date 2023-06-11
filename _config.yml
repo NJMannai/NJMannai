@@ -1,1 +1,10 @@
+# Site settings
+title: Flaming Nora
+author:
+  name: NJM
+  email: your-email@domain.com
+description: "site about mayhem and a11y."
+
+# Build settings
+remote_theme: jekyll/minima
 
